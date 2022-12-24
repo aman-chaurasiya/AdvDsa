@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a4d4b9e-96d4-4404-8c2c-089d6f62f06f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance Data Structure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/FibonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/potd/BalancedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/potd/StringManipulation.java" afterDir="false" />
-    </list>
+    <list default="true" id="3a4d4b9e-96d4-4404-8c2c-089d6f62f06f" name="Changes" comment="adv" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +83,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670994292067</updated>
     </task>
+    <task id="LOCAL-00001" summary="adv">
+      <created>1671869889875</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671869889875</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +103,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adv" />
+    <option name="LAST_COMMIT_MESSAGE" value="adv" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
